@@ -1,0 +1,13 @@
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.exe
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.deps.json
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.runtimeconfig.json
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.runtimeconfig.dev.json
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.dll
+D:\GitRepos\ASCIIConverx\Converx\bin\Debug\netcoreapp3.1\Converx.pdb
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.csprojAssemblyReference.cache
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.AssemblyInfoInputs.cache
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.AssemblyInfo.cs
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.csproj.CoreCompileInputs.cache
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.dll
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.pdb
+D:\GitRepos\ASCIIConverx\Converx\obj\Debug\netcoreapp3.1\Converx.genruntimeconfig.cache
