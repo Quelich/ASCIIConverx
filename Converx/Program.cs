@@ -10,14 +10,16 @@ using Converx;
 //Intialize the ASCII codes with respect to given letters
 namespace Converx
 {   
-    public class Program : ASCII_Database 
+    public class Program : ToAscii 
     {
-        public void Trial()
+        static void Main(string[] args)
         {
-
+            
+            GetInput();
+            // ShowAll();
+            
         }
         
-
 
     }
 }
