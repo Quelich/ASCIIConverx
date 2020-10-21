@@ -10,7 +10,7 @@ namespace Converx
 {
     public class Utils : AsciiDB {
         /// <summary>
-        /// Initializes all of AsciiDB
+        /// Shows all Key-Value pairs of AsciiDB
         /// </summary>
         public void ShowAll()
         {

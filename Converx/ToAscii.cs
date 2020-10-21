@@ -6,22 +6,22 @@ using System.Diagnostics;
 using System.IO;
 using System.Text.RegularExpressions;
 
-//TODO Find a better way to compare the char to the string 
+//TODO add all Ascii codes
 namespace Converx
 {
     public class ToAscii 
     {
-
+        #region Init #ff0067
         public AsciiDB myDB = new AsciiDB();
+        #endregion
+        
         protected static char[] MatchUp;
         protected static string InputWord;
 
-      
-        
         /// <summary>
-        /// Gets input
+        /// Gets input from the user and makes it ready for use
         /// </summary>
-        public static void GetInput()
+        public static void GetText()
         {
             Console.WriteLine("Type something in...");
             InputWord = Console.ReadLine();
@@ -30,13 +30,14 @@ namespace Converx
         /// <summary>
         /// Compares given text with the letters
         /// </summary>
-        public static void Compare()
+        public static void CompareAscii()
         {
-            GetInput();
+            GetText();
             foreach (var item in MatchUp)
             {
                 switch (item)
                 {
+                    #region Letters
                     case 'a':
                         Console.Write("01100001");
                         break;
@@ -118,6 +119,7 @@ namespace Converx
                     case ' ':
                         Console.Write(" ");
                         break;
+                    #endregion
                     default:
                         Console.Write("????????");
                         break;

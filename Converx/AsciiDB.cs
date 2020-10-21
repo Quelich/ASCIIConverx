@@ -3,6 +3,7 @@ using System;
 
 namespace Converx
 {
+    //TODO Add all symbols 
     public class AsciiDB {
         /// <summary>
         /// Stores letter's ASCII code equivalent

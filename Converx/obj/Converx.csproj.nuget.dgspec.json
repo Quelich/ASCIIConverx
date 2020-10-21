@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj": {}
+    "d:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj": {}
   },
   "projects": {
-    "D:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj": {
+    "d:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj",
+        "projectUniqueName": "d:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj",
         "projectName": "Converx",
-        "projectPath": "D:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj",
+        "projectPath": "d:\\GitRepos\\ASCIIConverx\\Converx\\Converx.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\GitRepos\\ASCIIConverx\\Converx\\obj\\",
+        "outputPath": "d:\\GitRepos\\ASCIIConverx\\Converx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
